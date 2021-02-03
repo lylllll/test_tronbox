@@ -1,4 +1,3 @@
-var wait = require('./helpers/wait')
 var MetaCoin = artifacts.require("./MetaCoin.sol");
 var address = artifacts.require("./addressNew")
 var IstanbulTest = artifacts.require("./IstanbulTest")
